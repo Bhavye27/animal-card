@@ -1,0 +1,60 @@
+/* add your CSS here */
+.fact {
+	font-style: italic;
+	text-align: left;
+	padding: 5px;
+	margin: 1em;
+}
+
+.head {
+	font-family: arial black;
+	text-align: left;
+	padding-left: 25px;
+	margin: 0.4em;
+}
+
+.label {
+	font-weight: bold;
+}
+
+.list {
+	padding-left: 5px;
+	padding-right: 20px;
+	list-style: none;
+	text-align: left;
+	
+	margin: 1em;
+}
+
+.full {
+	border: 2px solid silver;
+	width: 350px;
+	box-shadow: 8px 8px 7px 3px #808080;
+	margin: 0;
+}
+
+.abc {
+	padding-left: 35em;
+	text-align: center;
+	padding-left: 30em;
+}
+
+.desc {
+	
+		
+	text-align: left;
+	padding-left: 20px;
+	padding-right: 20px;
+}
+
+.image {
+	width: 300px;
+	border: 1px solid silver;
+	display: block;
+	margin: auto;
+}
+
+.text {
+	border: 1px solid silver;
+	margin: 1em;
+}
